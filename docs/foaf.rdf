@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xml:lang="en-US" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:schema="https://schema.org/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:contact="http://www.w3.org/2000/10/swap/pim/contact#"
+    xmlns:air="http://www.daml.org/2001/10/html/airport-ont#"
+    xmlns:pos='http://www.w3.org/2003/01/geo/wgs84_pos#'
+    xmlns:wn="http://xmlns.com/wordnet/1.6/"
+    xmlns:uranai="http://kota.s12.xrea.com/vocab/uranai/" 
+    xmlns:admin="http://webns.net/mvcb/">
+    <foaf:PersonalProfileDocument rdf:about="">
+        <foaf:maker rdf:resource="#me" />
+        <foaf:primaryTopic rdf:resource="#me" />
+        <dc:type>Text</dc:type>
+        <dc:format>application/rdf+xml</dc:format>
+        <dcterms:extent>5895</dcterms:extent>
+        <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
+        <admin:errorsReportTo rdf:resource="https://www.jasonfbuckman.com/" />
+    </foaf:PersonalProfileDocument>
+    <foaf:Person rdf:ID="me">
+        <foaf:name>Jason Frederick Buckman</foaf:name>
+        <foaf:givenName>Jason</foaf:givenName>
+        <schema:additionalName>Frederick</schema:additionalName>
+        <foaf:familyName>Buckman</foaf:familyName>
+        <foaf:gender>male</foaf:gender>
+        <foaf:birthday>02-27</foaf:birthday>
+        <uranai:starsign>pisces</uranai:starsign>
+        <foaf:myersBriggs>ISTJ-A</foaf:myersBriggs>
+        <schema:nationality>United States</schema:nationality>
+        <schema:knowsLanguage>en-US</schema:knowsLanguage>
+        <foaf:tipjar rdf:resource="https://cash.app/$JayFBuck" />
+        <foaf:tipjar rdf:resource="https://paypal.me/JayFBuck" />
+        <foaf:tipjar rdf:resource="https://strike.me/jayfbuck" />
+        <foaf:tipjar rdf:resource="https://www.venmo.com/JayFBuck" />
+        <foaf:tipjar rdf:resource="https://gpay.app.goo.gl/pay-CLqPSM9lA8b" />
+        <foaf:tipjar rdf:resource="bitcoin:156qBzNS7Rgck16uWxvdpZBCPt2bVG26Tv" />
+        <foaf:tipjar rdf:resource="litecoin:LRzqsonG1B8r4wDKQa5HTrHvsgBrRPj84j" />
+        <foaf:schoolHomepage rdf:resource="https://www.tri-county.us/" />
+        <foaf:schoolHomepage rdf:resource="https://www.umassd.edu/" />
+        <foaf:workplaceHomepage rdf:resource="https://www.sturdymemorial.org/" />
+        <foaf:homepage rdf:resource="https://www.jasonfbuckman.com/" />
+        <foaf:img rdf:resource="https://www.jasonfbuckman.com/photo.png" />
+	    <contact:nearestAirport>
+	        <wn:Airport rdf:about="http://www.daml.org/cgi-bin/airport?PVD">
+                <air:iataCode>PVD</air:iataCode>
+                <air:icaoCode>KPVD</air:icaoCode>
+                <pos:lat>41.723889</pos:lat>
+				<pos:long>-71.428333</pos:long>
+            </wn:Airport>
+        </contact:nearestAirport>
+        <foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.facebook.com/" />
+                <foaf:accountProfilePage rdf:resource="https://www.facebook.com/JayFBuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+            </foaf:OnlineAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.twitter.com/" />
+                <foaf:accountProfilePage rdf:resource="https://www.twitter.com/JayFBuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+            </foaf:OnlineAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.linkedin.com/" />
+                <foaf:accountProfilePage rdf:resource="https://www.linkedin.com/in/jason-f-buckman" />
+            </foaf:OnlineAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.instagram.com/" />
+                <foaf:accountProfilePage rdf:resource="https://www.instagram.com/JayFBuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+            </foaf:OnlineAccount>
+        </foaf:account>
+		<foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.threads.com/" />
+                <foaf:accountProfilePage rdf:resource="https://www.threads.com/@JayFBuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+            </foaf:OnlineAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.vine.co/" />
+                <foaf:accountProfilePage rdf:resource="https://www.vine.co/JayFBuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+        </foaf:OnlineAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.flickr.com/" />
+                <foaf:accountProfilePage rdf:resource="https://www.flickr.com/people/jayfbuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+            </foaf:OnlineAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineChatAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://www.facebook.com/" />
+                <foaf:accountProfilePage rdf:resource="https://m.me/JayFBuck" />
+                <foaf:accountName>JayFBuck</foaf:accountName>
+            </foaf:OnlineChatAccount>
+        </foaf:account>
+        <foaf:account>
+            <foaf:OnlineChatAccount>
+                <foaf:accountServiceHomepage rdf:resource="https://snapchat.com/" />
+                <foaf:accountProfilePage rdf:resource="https://snapchat.com/add/jayfbuck" />
+                <foaf:accountName>jayfbuck</foaf:accountName>
+            </foaf:OnlineChatAccount>
+        </foaf:account>
+    </foaf:Person>
+</rdf:RDF>

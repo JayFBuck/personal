@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xml:lang="en-US" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:dcterms="http://purl.org/dc/terms/" 
+  xmlns:ror="http://rorweb.com/0.1/">
+  <channel>
+    <title>Jason Frederick Buckman</title>
+    <description>RSS sitemap for Jason Buckman's canonical page.</description>
+    <language>en-us</language>
+    <generator>Notepad++</generator>
+    <dc:creator>Jason Frederick Buckman</dc:creator>
+    <dc:publisher>Jason Frederick Buckman</dc:publisher>
+    <dc:type>Text</dc:type>
+    <dc:format>application/rss+xml</dc:format>
+    <dcterms:extent>6872</dcterms:extent>
+    <link>https://www.jasonfbuckman.com/</link>
+    <pubDate>Mon, 9 Nov 2026 19:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 9 Nov 2026 19:30:00 GMT</lastBuildDate>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.jasonfbuckman.com/ror.xml" />
+    <atom:link rel="alternate" type="application/xml" href="https://www.jasonfbuckman.com/sitemap.xml" />
+    <atom:link rel="alternate" type="text/plain" href="https://www.jasonfbuckman.com/urllist.txt" />
+    <image>
+      <title>Jason Frederick Buckman</title>
+      <description>Jason Frederick Buckman</description>
+      <link>https://www.jasonfbuckman.com/</link>
+      <url>https://www.jasonfbuckman.com/photo.png</url>
+      <dc:type>Image</dc:type>
+      <dc:format>image/png</dc:format>
+      <dcterms:extent>111124</dcterms:extent>
+    </image>
+    <item xml:id="sitemap">
+      <title>RSS Sitemap</title>
+      <ror:about>sitemap</ror:about>
+      <ror:type>SiteMap</ror:type>
+      <guid isPermaLink="false">https://www.jasonfbuckman.com/ror.xml#sitemap</guid>
+    </item>
+    <item>
+      <title>Jason Frederick Buckman</title>
+      <description>The canonical page of Jason Buckman.</description>
+      <content:encoded><![CDATA[ <div><img width="252" height="252" alt="" title="Jason Frederick Buckman" src="https://www.jasonfbuckman.com/photo.png" /></div><div><p>The canonical page of Jason Buckman.</p></div><div><ul><li><a rel="external me" href="https://about.me/jayfbuck">about.me</a></li><li><a rel="external me" href="https://gravatar.com/jayfbuck">Gravatar</a></li><li><a rel="external me" href="https://profiles.google.com/103367273837072281347">Google+</a></li><li><a rel="external me" href="https://www.facebook.com/jbuckman172">Facebook</a> / <a rel="extrenal me" href="https://m.me/jbuckman172">Facebook Messneger</a></li><li><a rel="external me" href="https://twitter.com/JayFBuck">Twitter</a></li><li><a rel="external me" href="https://www.linkedin.com/pub/jason-buckman/3a/969/187">LinkedIn</a></li><li><a rel="external me" href="https://www.xing.com/profile/Jason_Buckman">Xing</a></li><li><a rel="external me" href="https://www.instagram.com/JayFBuck">Instagram</a></li><li><a rel="external me" href="https://www.threads.com/@JayFBuck">Threads</a></li><li><a rel="external me" href="https://www.vine.co/JayFBuck">Vine</a></li><li><a rel="external me" href="https://www.flickr.com/people/jayfbuck">Flickr</a></li><li><a rel="external me" href="https://www.foursquare.com/user/53252616">Foursquare</a></li><li><a rel="external me" href="https://www.yelp.com/user_details?userid=jKO6G42gJjRDg5Jw0AOSrg">Yelp</a></li><li><a rel="external me" href="https://www.youtube.com/c/JasonBuckman">YouTube</a></li><li><a rel="external me" href="https://soundcloud.com/jayfbuck">SoundCloud</a></li><li><a rel="external me" href="https://www.last.fm/user/freakzilla172">LastFM</a></li><li><a rel="external me" href="https://snapchat.com/add/jayfbuck">Snapchat</a></li></ul></div> ]]></content:encoded>
+      <dc:creator>Jason Frederick Buckman</dc:creator>
+      <dc:publisher>Jason Frederick Buckman</dc:publisher>
+      <dc:type>Text</dc:type>
+      <dc:format>text/html</dc:format>
+      <dcterms:extent>23985</dcterms:extent>
+      <atom:link rel="related" title="about.me" href="https://about.me/jayfbuck" />
+      <atom:link rel="related" title="Gravatar" href="https://gravatar.com/jayfbuck" />
+      <atom:link rel="related" title="Google+" href="https://profiles.google.com/103367273837072281347" />
+      <atom:link rel="related" title="Facebook" href="https://www.facebook.com/JayFBuck" />
+      <atom:link rel="related" title="Facebook Messenger" href="https://m.me/JayFBuck" />
+      <atom:link rel="related" title="Twitter" href="https://twitter.com/JayFBuck" />
+      <atom:link rel="related" title="LinkedIn" href="https://www.linkedin.com/in/jason-f-buckman" />
+      <atom:link rel="related" title="Xing" href="https://www.xing.com/profile/Jason_Buckman" />
+      <atom:link rel="related" title="Instagram" href="https://www.instagram.com/JayFBuck" />
+      <atom:link rel="related" title="Threads" href="https://www.threads.com/@JayFBuck" />
+      <atom:link rel="related" title="Vine" href="https://www.vine.co/JayFBuck" />
+      <atom:link rel="related" title="Flickr" href="https://www.flickr.com/people/jayfbuck" />
+      <atom:link rel="related" title="Foursquare" href="https://www.foursquare.com/user/53252616" />
+      <atom:link rel="related" title="Yelp" href="https://www.yelp.com/user_details?userid=jKO6G42gJjRDg5Jw0AOSrg" />
+      <atom:link rel="related" title="YouTube" href="https://www.youtube.com/c/JasonBuckman" />
+      <atom:link rel="related" title="SoundCloud" href="https://soundcloud.com/jayfbuck" />
+      <atom:link rel="related" title="LastFM" href="https://www.last.fm/user/freakzilla172" />
+      <atom:link rel="related" title="Snapchat" href="https://snapchat.com/add/jayfbuck" />
+      <atom:link rel="related" title="Cash App" href="https://cash.app/$JayFBuck" />
+      <atom:link rel="related" title="PayPal" href="https://paypal.me/JayFBuck" />
+      <atom:link rel="related" title="Venmo" href="https://www.venmo.com/JayFBuck" />
+      <atom:link rel="related" title="Google Pay" href="https://gpay.app.goo.gl/pay-CLqPSM9lA8b" />
+      <atom:link rel="related" title="College Savings Plan" href="https://go.fidelity.com/vlaern" />
+      <atom:link rel="alternate" type="text/html" href="https://www.jasonfbuckman.com/" />
+      <atom:link rel="alternate" type="text/html" hreflang="en-US" href="https://www.jasonfbuckman.com/" />
+      <atom:link rel="alternate" type="text/html" hreflang="x-default" href="https://www.jasonfbuckman.com/" />
+      <link>https://www.jasonfbuckman.com/</link>
+      <guid isPermaLink="true">https://www.jasonfbuckman.com/</guid>
+      <ror:image>https://www.jasonfbuckman.com/photo.png</ror:image>
+      <ror:resourceOf>sitemap</ror:resourceOf>
+      <ror:updated>2026-11-09T14:07:30-05:00</ror:updated>
+      <pubDate>Mon, 9 Nov 2026 19:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

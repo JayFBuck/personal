@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Host: www.jasonfbuckman.com
+Sitemap: http://www.jasonfbuckman.com/sitemap.xml

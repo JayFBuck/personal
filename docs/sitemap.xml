@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:content="http://www.google.com/schemas/sitemap-content/1.0">
+	<url>
+		<loc>http://www.jasonfbuckman.com/</loc>
+		<lastmod>2026-11-09T14:30:00-05:00</lastmod>
+		<priority>1.00</priority>
+		<image:image>
+			<image:loc>http://www.jasonfbuckman.com/photo.png</image:loc>
+			<image:title>Jason Frederick Buckman</image:title>
+		</image:image>
+		<PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+			<DataObject type="document">
+				<Attribute name="title">Jason Frederick Buckman</Attribute>
+				<Attribute name="author">Jason Frederick Buckman</Attribute>
+				<Attribute name="description">The canonical page of Jason Buckman.</Attribute>
+				<Attribute name="last_update">2026-11-09T14:30:00-05:00</Attribute>
+			</DataObject>
+			<DataObject type="thumbnail">
+				<Attribute name="src" value="http://www.jasonfbuckman.com/photo.png" />
+				<Attribute name="width" value="252" />
+				<Attribute name="height" value="252" />
+			</DataObject>
+		</PageMap>
+	</url>
+</urlset>

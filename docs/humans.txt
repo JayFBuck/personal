@@ -1,0 +1,14 @@
+/* TEAM */
+	Webmaster: Jason Frederick Buckman
+	Site: http://www.jasonfbuckman.com/
+	Twitter: @JayFBuck
+	Location: North Attleboro, Massachusetts, United States
+
+/* SITE */
+	Last update: 2026/11/09
+	Site name: Jason Frederick Buckman
+	Site URL: http://www.jasonfbuckman.com/
+	Language: English
+	Standards: HTML5, CSS3
+	Components: Bootstrap, Font Awesome, Google Web Fonts, jQuery
+	Software: Notepad++
