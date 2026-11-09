@@ -16,8 +16,8 @@
     <dc:format>application/rss+xml</dc:format>
     <dcterms:extent>6872</dcterms:extent>
     <link>https://www.jasonfbuckman.com/</link>
-    <pubDate>Mon, 9 Nov 2026 19:30:00 GMT</pubDate>
-    <lastBuildDate>Mon, 9 Nov 2026 19:30:00 GMT</lastBuildDate>
+    <pubDate>Mon, 9 Nov 2026 20:30:00 GMT</pubDate>
+    <lastBuildDate>Mon, 9 Nov 2026 20:30:00 GMT</lastBuildDate>
     <atom:link rel="self" type="application/rss+xml" href="https://www.jasonfbuckman.com/ror.xml" />
     <atom:link rel="alternate" type="application/xml" href="https://www.jasonfbuckman.com/sitemap.xml" />
     <atom:link rel="alternate" type="text/plain" href="https://www.jasonfbuckman.com/urllist.txt" />
@@ -44,7 +44,7 @@
       <dc:publisher>Jason Frederick Buckman</dc:publisher>
       <dc:type>Text</dc:type>
       <dc:format>text/html</dc:format>
-      <dcterms:extent>23985</dcterms:extent>
+      <dcterms:extent>23979</dcterms:extent>
       <atom:link rel="related" title="about.me" href="https://about.me/jayfbuck" />
       <atom:link rel="related" title="Gravatar" href="https://gravatar.com/jayfbuck" />
       <atom:link rel="related" title="Google+" href="https://profiles.google.com/103367273837072281347" />
@@ -75,8 +75,8 @@
       <guid isPermaLink="true">https://www.jasonfbuckman.com/</guid>
       <ror:image>https://www.jasonfbuckman.com/photo.png</ror:image>
       <ror:resourceOf>sitemap</ror:resourceOf>
-      <ror:updated>2026-11-09T14:07:30-05:00</ror:updated>
-      <pubDate>Mon, 9 Nov 2026 19:30:00 GMT</pubDate>
+      <ror:updated>2026-11-09T15:30:30-05:00</ror:updated>
+      <pubDate>Mon, 9 Nov 2026 20:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

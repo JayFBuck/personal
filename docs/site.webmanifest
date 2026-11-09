@@ -8,7 +8,7 @@
     "theme_color": "#BD5D38",
     "background_color": "#FFFFFF",
     "display": "standalone",
-    "scope": "http://www.jasonfbuckman.com/",
+    "scope": "https://www.jasonfbuckman.com/",
     "start_url": "/",
     "shortcuts": [
         {
