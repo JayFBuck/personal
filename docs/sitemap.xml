@@ -3,11 +3,11 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
     xmlns:content="http://www.google.com/schemas/sitemap-content/1.0">
 	<url>
-		<loc>http://www.jasonfbuckman.com/</loc>
-		<lastmod>2026-11-09T15:30:00-05:00</lastmod>
+		<loc>https://www.jasonfbuckman.com/</loc>
+		<lastmod>2026-11-10T11:29:00-05:00</lastmod>
 		<priority>1.00</priority>
 		<image:image>
-			<image:loc>http://www.jasonfbuckman.com/photo.png</image:loc>
+			<image:loc>https://www.jasonfbuckman.com/photo.png</image:loc>
 			<image:title>Jason Frederick Buckman</image:title>
 		</image:image>
 		<PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
@@ -18,7 +18,7 @@
 				<Attribute name="last_update">2026-11-09T15:30:00-05:00</Attribute>
 			</DataObject>
 			<DataObject type="thumbnail">
-				<Attribute name="src" value="http://www.jasonfbuckman.com/photo.png" />
+				<Attribute name="src" value="https://www.jasonfbuckman.com/photo.png" />
 				<Attribute name="width" value="252" />
 				<Attribute name="height" value="252" />
 			</DataObject>
