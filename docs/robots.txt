@@ -3,4 +3,4 @@ Allow: /
 Disallow:
 
 Host: www.jasonfbuckman.com
-Sitemap: http://www.jasonfbuckman.com/sitemap.xml
+Sitemap: https://www.jasonfbuckman.com/sitemap.xml
