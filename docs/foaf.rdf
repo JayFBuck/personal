@@ -17,7 +17,7 @@
         <foaf:primaryTopic rdf:resource="#me" />
         <dc:type>Text</dc:type>
         <dc:format>application/rdf+xml</dc:format>
-        <dcterms:extent>6268</dcterms:extent>
+        <dcterms:extent>6267</dcterms:extent>
         <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
         <admin:errorsReportTo rdf:resource="https://www.jasonfbuckman.com/" />
     </foaf:PersonalProfileDocument>
