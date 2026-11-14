@@ -17,7 +17,7 @@
         <foaf:primaryTopic rdf:resource="#me" />
         <dc:type>Text</dc:type>
         <dc:format>application/rdf+xml</dc:format>
-        <dcterms:extent>5895</dcterms:extent>
+        <dcterms:extent>6268</dcterms:extent>
         <admin:generatorAgent rdf:resource="https://notepad-plus-plus.org/" />
         <admin:errorsReportTo rdf:resource="https://www.jasonfbuckman.com/" />
     </foaf:PersonalProfileDocument>
@@ -27,7 +27,6 @@
         <schema:additionalName>Frederick</schema:additionalName>
         <foaf:familyName>Buckman</foaf:familyName>
         <foaf:gender>male</foaf:gender>
-        <foaf:birthday>02-27</foaf:birthday>
         <uranai:starsign>pisces</uranai:starsign>
         <foaf:myersBriggs>ISTJ-A</foaf:myersBriggs>
         <schema:nationality>United States</schema:nationality>
@@ -70,6 +69,7 @@
             <foaf:OnlineAccount>
                 <foaf:accountServiceHomepage rdf:resource="https://www.linkedin.com/" />
                 <foaf:accountProfilePage rdf:resource="https://www.linkedin.com/in/jason-f-buckman" />
+                <accountName>jason-f-buckman</accountName>
             </foaf:OnlineAccount>
         </foaf:account>
         <foaf:account>
