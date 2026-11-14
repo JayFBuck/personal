@@ -69,7 +69,7 @@
             <foaf:OnlineAccount>
                 <foaf:accountServiceHomepage rdf:resource="https://www.linkedin.com/" />
                 <foaf:accountProfilePage rdf:resource="https://www.linkedin.com/in/jason-f-buckman" />
-                <accountName>jason-f-buckman</accountName>
+                <foaf:accountName>jason-f-buckman</foaf:accountName>
             </foaf:OnlineAccount>
         </foaf:account>
         <foaf:account>
